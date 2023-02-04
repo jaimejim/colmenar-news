@@ -2,32 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/50.jpg'
+image: '/images/1.jpg'
 ---
 
-Hi, my name is not important. I am a mysterious figure, often seen wandering the streets of Espoo. No one knows exactly who I am or where I came from. Some say I have a strange aura about me, while others claim to have seen me disappear into thin air. Despite my elusive nature, I am known to observe and listen, always present but never truly seen. I am a mystery, shrouded in secrecy, known only as a resident of Espoo.
+Soy el gato con botas, y actualmente vivo en Colmenar Viejo. Soy un ser astuto y valiente, pero también tengo un gran corazón y siempre estoy dispuesto a ayudar a los demás. Me encanta disfrutar de la vida y vivir al máximo cada día.
 
-![Enjoy life]({{site.baseurl}}/images/51.jpeg)
-*Enjoy life*
+Una de mis mayores debilidades son las anchoas. No hay nada que me guste más que un buen plato de anchoas frescas y bien preparadas. Me encanta descubrir nuevos lugares donde pueda disfrutar de mi comida favorita.
 
-Bears roam in Finland's woodlands wide
-Two species call this place their guide
-The brown bear, largest of the two
-And black bears that roam wild and free, too
+Además de mi amor por las anchoas, también soy muy curioso y me gusta explorar. No hay nada que me guste más que un buen desafío y una buena aventura. Mi astucia y habilidades me permiten salir airoso de cualquier situación y resolver cualquier misterio.
 
-With fur so thick, and paws so strong
-They roam and hunt all day long
-Through forests deep, and meadows fair
-Their presence known, a sight to share
-
-Though feared by some, they're gentle creatures
-Roaming wild, in Finland's features
-With grace and strength, they live and thrive
-A symbol of this land, alive
-
-So next time you're wandering through the woods
-And hear a growl, or catch a glimpse of goods
-Remember, bears are part of this place
-Roaming free, with strength and grace.
-
-> <cite>CGPT Bear</cite>
+En resumen, soy un gato con botas muy especial, con mucha personalidad y una gran cantidad de habilidades. Vivir en Colmenar Viejo me permite disfrutar de la vida al máximo y de mi comida favorita, las anchoas. Siempre estoy buscando nuevas aventuras y desafíos.
