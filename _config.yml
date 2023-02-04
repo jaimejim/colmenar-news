@@ -1,19 +1,20 @@
 #-------------------------------
 # General Site Settings
-title: Espoo Today
+title: Colmenar Today
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://espoo.today" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://colmenar.today" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Espoo Bear
-  bio: Bears roam in Finland's woodlands wide. Two species call this place  their guide. The brown bear, largest of the two and black bears that roam wild and free, too.
-  image: '/images/16.jpg'
-  avatar: '/images/15.jpg'
+  name: Botas
+  bio: Soy el gato con botas, un gato astuto y valiente. Mi inteligencia y habilidades me permiten salir airoso de cualquier situación. Me gusta disfrutar de la vida, pero también tengo una gran astucia que me permite conseguir lo que quiero. Además, mis botas me dan un toque de elegancia y distinción que me hace único.
+  image: '/images/01.jpg'
+  avatar: '/images/02.jpg'
 
 # Example of adding a new link to the section author - {name: "Github", link: "https://github.com"}
 author-social:
@@ -33,7 +34,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: espoo-admin. # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: colmenar-admin. # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
