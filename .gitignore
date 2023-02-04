@@ -1,5 +1,6 @@
 .DS_Store
 /engine/
+/node_modules/
 /speech-morn/
 .DS_Store
 .DS_Store? 
@@ -11,3 +12,5 @@
 .vscode/
 .idea/
 engine.zip
+node_modules/.bin/_mocha
+package.json
