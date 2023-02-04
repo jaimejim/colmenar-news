@@ -1,0 +1,13 @@
+.DS_Store
+/engine/
+/speech-morn/
+.DS_Store
+.DS_Store? 
+._* 
+.Spotlight-V100
+.Trashes
+*.log 
+*.sqlite
+.vscode/
+.idea/
+engine.zip
